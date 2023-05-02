@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="500"></br>
 
-## 👷🏻‍♀️👋🏻 Hi there, I'm Nazgul
+## 👷🏻‍♀️👋🏻 Hi there, I'm Nazgül
 
 <font color="pink"> 🐱‍🏍 I'm Frontend Developer, and I like to be software developer. </font>
 </br>
