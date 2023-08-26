@@ -97,7 +97,7 @@
 
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[Vanilla JS Todo App]([https://Nazgul-Racber.github.io/Todo-App](https://sparkling-trifle-685296.netlify.app/)/) <h3>[Repo](https://github.com/Nazgül/Todo-App)</h3> | Vanilla JS, PureCSS |![todo](https://user-images.githubusercontent.com/109314125/215288680-0123a845-7520-486c-8c3b-a0572b02b5c9.gif)
+[Vanilla JS Todo App]([https://Nazgul-Racber.github.io/Todo-App]) <h3>[Repo](https://github.com/Nazgül/Todo-App)</h3> | Vanilla JS, PureCSS |![todo](https://user-images.githubusercontent.com/109314125/215288680-0123a845-7520-486c-8c3b-a0572b02b5c9.gif)
 
 
 
