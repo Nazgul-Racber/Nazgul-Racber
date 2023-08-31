@@ -97,7 +97,8 @@
 
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[checkout project](https://yusufbali13.github.io/Checkout/) | <h3>[Repo](https://github.com/yusufbali13/Checkout)</h3>|JS DOM|![checkout](https://user-images.githubusercontent.com/97898216/171990110-d6e5da76-6628-488e-8332-4074c4bae5d5.gif)
+[Vanilla JS Checkout App](http://127.0.0.1:5500/index.html) <h3>[Repo](https://github.com/szrokmn/check-out)</h3> | Vanilla JS, PureCSS, Local Storage |![checkout](https://user-images.githubusercontent.com/109314125/218492074-aae502e5-3045-415f-b17d-1803dacdef23.gif)
+[Vanilla JS Todo App](https://szrokmn.github.io/Todo-App/) <h3>[Repo](https://github.com/szrokmn/Todo-App)</h3> | Vanilla JS, PureCSS, Local Storage |![todo](https://user-images.githubusercontent.com/109314125/215288680-0123a845-7520-486c-8c3b-a0572b02b5c9.gif)
 
 
 
