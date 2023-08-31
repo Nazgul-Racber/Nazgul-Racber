@@ -97,7 +97,7 @@
 
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[React - Bootstrap ](https://sparkling-trifle-685296.netlify.app/) <h3>[Repo](https://sparkling-trifle-685296.netlify.app/)</h3> | React - Bootstrap - React -Dom |![filenin_sultanları](https://sparkling-trifle-685296.netlify.app/)
+[checkout project](https://yusufbali13.github.io/Checkout/) | <h3>[Repo](https://github.com/yusufbali13/Checkout)</h3>|JS DOM|![checkout](https://user-images.githubusercontent.com/97898216/171990110-d6e5da76-6628-488e-8332-4074c4bae5d5.gif)
 
 
 
