@@ -97,7 +97,7 @@
 
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[React - Bootstrap ](https://sparkling-trifle-685296.netlify.app/) <h3>[Repo](https://sparkling-trifle-685296.netlify.app/)</h3> | React - Bootstrap - React -Dom |![netlify](https://sparkling-trifle-685296.netlify.app/)
+[React - Bootstrap ](https://sparkling-trifle-685296.netlify.app/) <h3>[Repo](https://sparkling-trifle-685296.netlify.app/)</h3> | React - Bootstrap - React -Dom |![filenin_sultanları](https://sparkling-trifle-685296.netlify.app/)
 
 
 
