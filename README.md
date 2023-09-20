@@ -99,9 +99,8 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 :-------------------------|-------------------------|-------------------------
 [Vanilla JS Checkout App](http://127.0.0.1:5500/index.html) <h3>[Repo](https://github.com/szrokmn/check-out)</h3> | Vanilla JS, PureCSS, Local Storage |![checkout](https://user-images.githubusercontent.com/109314125/218492074-aae502e5-3045-415f-b17d-1803dacdef23.gif)
 [Vanilla JS Todo App](https://szrokmn.github.io/Todo-App/) <h3>[Repo](https://github.com/szrokmn/Todo-App)</h3> | Vanilla JS, PureCSS, Local Storage |![todo](https://user-images.githubusercontent.com/109314125/215288680-0123a845-7520-486c-8c3b-a0572b02b5c9.gif)
-[filenin_sultanlari](https://sparkling-trifle-685296.netlify.app/) |react, js, react-bootstrap  |![deneme](https://user-images.githubusercontent.com/./filenin_sultanları.gif)
+[filenin_sultanlari](https://sparkling-trifle-685296.netlify.app/) |react, js, react-bootstrap  |(![Animation 1](https://github.com/Nazgul-Racber/Nazgul-Racber/assets/119047722/3858fd71-55f4-4032-b731-285c2b66e1d9)
 [Netflix](https://netflix-basic-three.vercel.app/)| React, React Router,Tailwind, Firebase, Firestore Database|![netf](https://user-images.githubusercontent.com/118957608/226092423-9d9cd68f-75e2-42b1-8597-0807c882522a.gif)
-[Horoscope-app](https://horoscope-app-naz.netlify.app/) <h3>[Repo](https://github.com/Nazgul-Racber/Horoscope-app)</h3> | React, SASS |![horoscope](https://www.webmobilefirst.com/en/screencasts/aAAV6c2ynr/)
 [Horoscope-app](https://horoscope-app-naz.netlify.app/) <h3>[Repo](https://github.com/Nazgul-Racber/Horoscope-app)</h3> | React, SASS |![horoscope-app.gif](https://github.com/Nazgul-Racber/./horoscope-app.gif)
 
 
