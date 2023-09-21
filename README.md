@@ -103,7 +103,7 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 
 [appointment](https://hospital-appontment-app.netlify.app/)| React, Bootstrap, Modal, useState, filter, map  |(![appointment](https://github.com/Nazgul-Racber/Nazgul-Racber/assets/119047722/c376e272-4b7d-47bc-a812-aa233f1deb8d)
 
-[Horoscope-app](https://horoscope-app-naz.netlify.app/)| React, scss |(![horoscope](https://www.webmobilefirst.com/en/screencasts/Tae3O41GdB/)
+[Horoscope-app](https://horoscope-app-naz.netlify.app/)| React, scss |(![horoscope]()
 
 <br>
 
