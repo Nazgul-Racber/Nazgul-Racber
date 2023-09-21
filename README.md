@@ -97,10 +97,10 @@
 
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[Vanilla JS Checkout App](http://127.0.0.1:5500/index.html) <h3>[Repo](https://nazgul-racber.github.io/checkout2/)</h3> | Vanilla JS, PureCSS, Local Storage |![checkout](![checkout2](https://github.com/Nazgul-Racber/Nazgul-Racber/assets/119047722/1d3c1f84-6a1b-48c2-94e2-2d7d97c9cb4d)
-[filenin_sultanlari](https://sparkling-trifle-685296.netlify.app/) |react, js, react-bootstrap  |(![Animation 1](https://github.com/Nazgul-Racber/Nazgul-Racber/assets/119047722/3858fd71-55f4-4032-b731-285c2b66e1d9)
-[appointment](https://hospital-appontment-app.netlify.app/)| React, Bootstrap, Modal, useState, filter, map  |(![appointment](https://github.com/Nazgul-Racber/Nazgul-Racber/assets/119047722/c376e272-4b7d-47bc-a812-aa233f1deb8d)
-[Horoscope-app](https://horoscope-app-naz.netlify.app/)| React, scss |(![Video_230921214340](https://github.com/Nazgul-Racber/Nazgul-Racber/assets/119047722/bdb8d5cb-e636-4a3e-8fe6-61063ce9d4cd)
+[Vanilla JS Checkout App](http://127.0.0.1:5500/index.html) <h3>[Repo](https://nazgul-racber.github.io/checkout2/)</h3> | Vanilla JS, PureCSS, Local Storage |[checkout2](https://github.com/Nazgul-Racber/Nazgul-Racber/assets/119047722/1d3c1f84-6a1b-48c2-94e2-2d7d97c9cb4d)
+[filenin_sultanlari](https://sparkling-trifle-685296.netlify.app/) |react, js, react-bootstrap  |![Animation 1](https://github.com/Nazgul-Racber/Nazgul-Racber/assets/119047722/3858fd71-55f4-4032-b731-285c2b66e1d9)
+[appointment](https://hospital-appontment-app.netlify.app/)| React, Bootstrap, Modal, useState, filter, map  |![appointment](https://github.com/Nazgul-Racber/Nazgul-Racber/assets/119047722/c376e272-4b7d-47bc-a812-aa233f1deb8d)
+[Horoscope-app](https://horoscope-app-naz.netlify.app/)| React, scss |![Video_230921214340](https://github.com/Nazgul-Racber/Nazgul-Racber/assets/119047722/bdb8d5cb-e636-4a3e-8fe6-61063ce9d4cd)
 
 <br>
 
