@@ -102,7 +102,7 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 [firebase-movie-app](https://firebase-movie-app-mu.vercel.app/) | React, firebase, router, ToastNotfy, context |![firebase](https://github.com/Nazgul-Racber/Nazgul-Racber/assets/119047722/b6afd7f7-e354-429c-9359-a8571e27e02c)
 [appointment](https://hospital-appontment-app.netlify.app/)| React, Bootstrap, Modal, useState, filter, map  |![appointment](https://github.com/Nazgul-Racber/Nazgul-Racber/assets/119047722/c376e272-4b7d-47bc-a812-aa233f1deb8d)
 [Horoscope-app](https://horoscope-app-naz.netlify.app/)| React, scss |![Video_230921214340](https://github.com/Nazgul-Racber/Nazgul-Racber/assets/119047722/bdb8d5cb-e636-4a3e-8fe6-61063ce9d4cd)
-[tutorial-app](https://tutorial-app-two.vercel.app/)| React,  |![Add-tutorial](https://github.com/Nazgul-Racber/Nazgul-Racber/assets/119047722/a8589bac-321c-4dac-85b6-4045014a13d0)
+[tutorial-app](https://tutorial-app-two.vercel.app/)| React, bootstrap, axios useEffect |![Add-tutorial](https://github.com/Nazgul-Racber/Nazgul-Racber/assets/119047722/a8589bac-321c-4dac-85b6-4045014a13d0)
 
 <br>
 
