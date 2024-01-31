@@ -97,15 +97,15 @@
 
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-
+[naz_project](https://nazgul-racber.github.io/naz_project/) |HTML, CSS, Link, audio, font-family, input, button, textarea... |![Naz-project](https://github.com/Nazgul-Racber/Nazgul-Racber/assets/119047722/5f209b51-02c5-417f-891c-483679d3e473)
+[checkout2](https://nazgul-racber.github.io/checkout2/) | JS, Dom, LocalStorage, HTML, CSS |![checkout2](https://github.com/Nazgul-Racber/Nazgul-Racber/assets/119047722/1d3c1f84-6a1b-48c2-94e2-2d7d97c9cb4d)
 [filenin_sultanlari](https://filenin-sultanlari.netlify.app/) |React, react-Dom, react-bootstrap, mocApi, filter, map, useState  |![Animation 1](https://github.com/Nazgul-Racber/Nazgul-Racber/assets/119047722/3858fd71-55f4-4032-b731-285c2b66e1d9)
 [firebase-movie-app](https://firebase-movie-app-mu.vercel.app/) | React.js, firebase, react-router, tailwind-css, context-API, Toastify, |![firebase](https://github.com/Nazgul-Racber/Nazgul-Racber/assets/119047722/b6afd7f7-e354-429c-9359-a8571e27e02c)
 [eleska-project](https://eleska-proje-ozel-d4ei.vercel.app/) | <p>This project is the product of teamwork.  I think we did a good job as a team.  I would like to thank my dear group friends for their efforts.<p/>|![eleska](https://github.com/Nazgul-Racber/Nazgul-Racber/assets/119047722/e1396248-d94c-4870-93a6-ad5fde68f434)
 [appointment](https://hospital-appontment-app.netlify.app/)| React, Bootstrap, useState, filter, map, AddModal...  |![appointment](https://github.com/Nazgul-Racber/Nazgul-Racber/assets/119047722/c376e272-4b7d-47bc-a812-aa233f1deb8d)
 [Horoscope-app](https://horoscope-app-naz.netlify.app/)| React, scss |![Video_230921214340](https://github.com/Nazgul-Racber/Nazgul-Racber/assets/119047722/bdb8d5cb-e636-4a3e-8fe6-61063ce9d4cd)
 [tutorial-app](https://tutorial-app-two.vercel.app/)| React, bootstrap, axios, async-await, Try-chach, useEffect, Postman: Get,Post,Put,Delet operations |![Add-tutorial](https://github.com/Nazgul-Racber/Nazgul-Racber/assets/119047722/a8589bac-321c-4dac-85b6-4045014a13d0)
-[naz_project](https://nazgul-racber.github.io/naz_project/) |HTML, CSS, Link, audio, font-family, input, button, textarea... |![Naz-project](https://github.com/Nazgul-Racber/Nazgul-Racber/assets/119047722/5f209b51-02c5-417f-891c-483679d3e473)
-[checkout2](https://nazgul-racber.github.io/checkout2/) | JS, Dom, LocalStorage, HTML, CSS |![checkout2](https://github.com/Nazgul-Racber/Nazgul-Racber/assets/119047722/1d3c1f84-6a1b-48c2-94e2-2d7d97c9cb4d)
+
 
 <br>
 
