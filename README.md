@@ -97,6 +97,7 @@
 
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
+[naz_project](https://nazgul-racber.github.io/naz_project/) |HTML, CSS, Link, audio, font-family, input, button, textarea... |![Naz-project]![cloudifiers](https://github.com/Nazgul-Racber/Nazgul-Racber/assets/119047722/840fcdb4-b543-41a2-b09c-dde32c02c2c9)
 [naz_project](https://nazgul-racber.github.io/naz_project/) |HTML, CSS, Link, audio, font-family, input, button, textarea... |![Naz-project](https://github.com/Nazgul-Racber/Nazgul-Racber/assets/119047722/5f209b51-02c5-417f-891c-483679d3e473)
 [checkout2](https://nazgul-racber.github.io/checkout2/) | JS, Dom, LocalStorage, HTML, CSS |![checkout2](https://github.com/Nazgul-Racber/Nazgul-Racber/assets/119047722/1d3c1f84-6a1b-48c2-94e2-2d7d97c9cb4d)
 [filenin_sultanlari](https://filenin-sultanlari.netlify.app/) |React, react-Dom, react-bootstrap, mocApi, filter, map, useState  |![Animation 1](https://github.com/Nazgul-Racber/Nazgul-Racber/assets/119047722/3858fd71-55f4-4032-b731-285c2b66e1d9)
